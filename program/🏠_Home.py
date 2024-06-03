@@ -1,10 +1,4 @@
-from langchain_community.llms import Ollama
-from langchain_core.prompts import PromptTemplate
-from langchain_core.output_parsers import StrOutputParser
 import streamlit as st
-import pandas as pd
-from stqdm import stqdm
-
 
 st.set_page_config(page_title="AdGen", page_icon="🤖")
 st.title("🤖 AdGen")
