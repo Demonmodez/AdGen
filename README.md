@@ -77,10 +77,3 @@ AdGen is an innovative application designed to simplify and streamline the creat
    - The generated ad scripts will be displayed in a table below the upload section.
 5. **Download Ad Scripts:**
    - To download the results, click the "Download" button on the top right corner of the table to save the ad scripts as a CSV (.csv) file.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This README.md file provides a comprehensive overview of AdGen, including its features, technology stack, installation instructions, usage guidelines, contribution process, and license information. You can customize the repository URL and other details as needed.
