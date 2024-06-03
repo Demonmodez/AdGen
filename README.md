@@ -47,7 +47,8 @@ AdGen is an innovative application designed to simplify and streamline the creat
 
 4. **Run the application:**
    ```bash
-   streamlit run app.py
+   cd program
+   streamlit run 🏠_Home.py
    ```
 
 ## Usage
