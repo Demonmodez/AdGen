@@ -30,7 +30,7 @@ AdGen is an innovative application designed to simplify and streamline the creat
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/adgen.git
+   git clone https://github.com/Demonmodez/AdGen.git
    cd adgen
    ```
 
